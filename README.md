@@ -104,7 +104,7 @@ These are the technologies that I specialize in:
       <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Docker" alt="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png">
+      <img title="Docker" alt="Docker" width="40px" src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
     </td>
   </tr>
 </table>
